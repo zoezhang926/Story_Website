@@ -1,0 +1,1 @@
+Apply EJS, SQL, MongoDB to create a website which enables creating, editing, storing and deleting stories.
